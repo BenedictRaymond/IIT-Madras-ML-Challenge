@@ -63,4 +63,4 @@ The project is designed to analyze the given training data, extract meaningful i
 - The deep learning model demonstrated promising performance with low Mean Absolute Error (MAE). Further optimization and testing are ongoing.
 
 ## License
-- This project is licensed under the MIT License.
+- This project is licensed under the [MIT License]([url](https://github.com/BenedictRaymond/IIT-Madras-ML-Challenge/blob/main/LICENSE)).
